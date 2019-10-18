@@ -1,0 +1,17 @@
+﻿  TestCSFML.c
+c:\users\utilisateur\desktop\folder\fractale 18.03.19 arbre\testcsfml\testcsfml.c(111): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+c:\users\utilisateur\desktop\folder\fractale 18.03.19 arbre\testcsfml\testcsfml.c(113): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+c:\users\utilisateur\desktop\folder\fractale 18.03.19 arbre\testcsfml\testcsfml.c(119): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+c:\users\utilisateur\desktop\folder\fractale 18.03.19 arbre\testcsfml\testcsfml.c(121): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+c:\users\utilisateur\desktop\folder\fractale 18.03.19 arbre\testcsfml\testcsfml.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: voir la déclaration de 'scanf'
+c:\users\utilisateur\desktop\folder\fractale 18.03.19 arbre\testcsfml\testcsfml.c(136): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: voir la déclaration de 'scanf'
+c:\users\utilisateur\desktop\folder\fractale 18.03.19 arbre\testcsfml\testcsfml.c(139): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: voir la déclaration de 'scanf'
+  Génération de code en cours
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  TestCSFML.vcxproj -> C:\Users\Utilisateur\Desktop\Folder\Fractale 18.03.19 Arbre\x64\Release\TestCSFML.exe
